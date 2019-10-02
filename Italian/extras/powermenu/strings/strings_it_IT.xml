@@ -8,4 +8,6 @@
     <string name="label_alert_shutdown">Tocca per spegnere</string>
     <string name="label_blank">Indietro</string>
     <string name="label_emergency_call">Chiamata di emergenza</string>
+    <string name="label_alert_recovery">Modalità recovery</string>
+    <string name="label_alert_fastboot">Modalità fastboot</string>
 </resources>
